@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "565082583526",
+    "project_id": "uitest2-d966d",
+    "storage_bucket": "uitest2-d966d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565082583526:android:f68fe0503addbd7c5ae627",
+        "android_client_info": {
+          "package_name": "com.hutech.hrcentralui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqq6AMjjqvZvFjYoc0fVmdBzCsUHXEMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565082583526:android:25185af33cf10eab5ae627",
+        "android_client_info": {
+          "package_name": "com.hutech.test_ui_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqq6AMjjqvZvFjYoc0fVmdBzCsUHXEMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565082583526:android:56aa4936bef8bcbc5ae627",
+        "android_client_info": {
+          "package_name": "com.mycompany.shopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqq6AMjjqvZvFjYoc0fVmdBzCsUHXEMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
